@@ -4,6 +4,8 @@
 
 A curated collection of battle-tested skills for [Claude Code](https://code.claude.com), organized to cover the full development lifecycle. Install once, use on any project.
 
+**[🇧🇷 Versão em Português](README-pt.md)**
+
 ---
 
 ## Install
@@ -184,3 +186,24 @@ This collection bundles skills from three sources:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## About the Author
+
+**Felipe Salgueiro** is a developer, entrepreneur, and AI builder based in Sorocaba, Brazil.
+
+He founded [Posicionamento Digital](https://posicionamentodigital.com) — a digital marketing and AI automation agency — and built [Cadencia](https://cadencia.app.br), a platform that automates content pipelines for businesses using AI agents.
+
+These skills were assembled out of necessity. Running multiple software projects simultaneously while maintaining code quality requires discipline that doesn't come free — it has to be engineered. Over time, he curated and built this collection to enforce structure around the parts of development that slip most easily: reviewing code before it ships, diagnosing bugs methodically instead of guessing, writing specs before writing code, and verifying that fixes actually work at runtime.
+
+The collection pulls the best from [Matt Pocock's engineering skills](https://github.com/mattpocock/skills), [GitHub's Spec-Kit framework](https://github.com/github/spec-kit), and original skills built from hard lessons across dozens of production projects.
+
+**Links:**
+- Site: [posicionamentodigital.com](https://posicionamentodigital.com)
+- AI Platform: [cadencia.app.br](https://cadencia.app.br)
+- AI Content: [insightartificial.ia.br](https://insightartificial.ia.br)
+- GitHub: [@felipeluissalgueiro](https://github.com/felipeluissalgueiro)
+- LinkedIn: [felipe-luis-salgueiro](https://linkedin.com/in/felipe-luis-salgueiro)
+- Instagram: [@felipeluissalgueiro](https://instagram.com/felipeluissalgueiro)
+- TikTok: [@felipeluissalgueiro](https://tiktok.com/@felipeluissalgueiro)
